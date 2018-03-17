@@ -1,6 +1,6 @@
 # trunks
 
-[Imgur](https://i.imgur.com/DMqa7mg.png)
+![trunks](https://i.imgur.com/DMqa7mg.png)
 
 A React UI Library for Bulma
 
