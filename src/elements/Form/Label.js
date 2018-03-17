@@ -1,9 +1,9 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import classnames from 'classnames';
+import classNames from 'classnames';
 
 const Label = (props) => (
-  <label className={classnames('label', props.className)}>
+  <label className={classNames('label', props.className)}>
     {props.children}
   </label>
 );

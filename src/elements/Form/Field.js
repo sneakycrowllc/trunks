@@ -1,9 +1,9 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import classnames from 'classnames';
+import classNames from 'classnames';
 
 const Field = (props) => (
-  <div className={classnames('field', props.className)}>
+  <div className={classNames('field', props.className)}>
     {props.children}
   </div>
 );

@@ -1,10 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import classnames from 'classnames';
+import classNames from 'classnames';
 
 const TextArea = (props) => (
   <div className="control">
-    <textarea className={classnames('textarea', props.className)} placeholder={props.placeholder} />
+    <textarea className={classNames('textarea', props.className)} placeholder={props.placeholder} />
   </div>
 );
 
