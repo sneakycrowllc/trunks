@@ -1,0 +1,25 @@
+{
+  "name": "trunks",
+  "version": "1.0.0",
+  "description": "A React UI Library for Bulma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sneakycrow/trunks.git"
+  },
+  "keywords": [
+    "bulma",
+    "react",
+    "ui",
+    "library"
+  ],
+  "author": "Zachary E Sohovich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sneakycrow/trunks/issues"
+  },
+  "homepage": "https://github.com/sneakycrow/trunks#readme"
+}
