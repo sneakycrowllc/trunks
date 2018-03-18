@@ -16,10 +16,12 @@ const Button = ({ type, children, className }) => {
 Button.propTypes = {
   type: PropTypes.oneOf(['anchor', 'button', 'submit', 'reset']),
   children: PropTypes.string.isRequired,
+  className: PropTypes.string,
 }
 
 Button.defaultProps = {
-  type: 'button'
+  type: 'button',
+  className: '',
 }
 
 export default Button;
